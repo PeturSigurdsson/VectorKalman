@@ -15,16 +15,16 @@ VectorKalman is a light weight, pure js library that can be installed with node.
 </p>
 
 ## Example
-<p> 
- > import VectorKalman from 'VectorKalman';
- > // Use any object with numerical props
- > // Note that the object can contain 
- > // other props. They will simply be ignored.
- > let v = {x: 10, y: 2, z: 0};
- > let vk = new VectorKalman(v);
- > v = {x: 11, y: 1, z: -4};
- > v = vk.filter(v);
-</p>
+> <p> 
+  import VectorKalman from 'VectorKalman';
+  // Use any object with numerical props
+  // Note that the object can contain 
+  // other props. They will simply be ignored.
+  let v = {x: 10, y: 2, z: 0};
+  let vk = new VectorKalman(v);
+  v = {x: 11, y: 1, z: -4};
+  v = vk.filter(v);
+ </p>
 
 ## License
 <p> 
