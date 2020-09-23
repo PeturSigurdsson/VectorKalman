@@ -22,7 +22,7 @@ or rotations.
 </p>
 
 ```javascript
-import VectorKalman from 'VectorKalman';
+import VectorKalman from 'vectorkalman';
 // Use any object with numerical props
 // Note that the object can contain other
 // props. They will simply be ignored.
