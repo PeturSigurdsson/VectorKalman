@@ -1,7 +1,5 @@
 import KalmanFilter from 'kalmanjs';
 
-const K = KalmanFilter;
-
 const isNumber = (n) => {
   return typeof n === 'number' && isFinite(n);
 };
