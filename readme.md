@@ -20,7 +20,7 @@ npm install VectorKalman
 ## Example
 
 <p>
-Use cases include sensor data, 3d positions <br>
+Use cases include sensor data, 3d positions
 or rotations.
 </p>
 
