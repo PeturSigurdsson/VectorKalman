@@ -12,15 +12,18 @@ https://www.npmjs.com/package/kalmanjs.
 <p> 
 VectorKalman is a light weight, pure js library that can be installed with node.
 </p>
+
 ```
 npm install VectorKalman
 ```
 
 ## Example
+
 <p>
 Use cases include sensor data, 3d positions <br>
 or rotations.
 </p>
+
 ```
 import VectorKalman from 'VectorKalman';
 // Use any object with numerical props
