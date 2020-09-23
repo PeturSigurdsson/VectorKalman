@@ -1,6 +1,14 @@
 {
+  "name":"vectorkalman",
+  "version":"1.0.2",
+  "description":"Multivariable kalmanfilter",
   "type": "module",
   "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PeturSigurdsson/VectorKalman"
+  },
   "scripts": {
     "test": "node ./test/test.js"
   },
@@ -10,6 +18,9 @@
   "devDependencies": {
     "@babel/core": "^7.8.6"
   },
+  "keywords": [
+    "kalman","filter","math","noise","vector"
+  ],
   "private": false,
   "author": "Pétur Sigurðsson"
 }

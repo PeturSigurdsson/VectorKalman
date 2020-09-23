@@ -1,10 +1,8 @@
 # VectorKalman
 
 <p> 
-A multivariable wrapper for kalmanjs by <br> 
-@wouterbulten.<br>
-Available at: <br> 
-https://www.npmjs.com/package/kalmanjs.
+A multivariable wrapper for [kalmanjs](https://www.npmjs.com/package/kalmanjs) by <br> 
+[@wouterbulten](https://www.npmjs.com/~wouterbulten).
 </p>
 
 ## Installation
@@ -14,7 +12,7 @@ VectorKalman is a light weight, pure js library that can be installed with node.
 </p>
 
 ```
-npm install VectorKalman
+npm i vectorkalman
 ```
 
 ## Example
