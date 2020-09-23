@@ -24,7 +24,7 @@ Use cases include sensor data, 3d positions
 or rotations.
 </p>
 
-```
+```javascript
 import VectorKalman from 'VectorKalman';
 // Use any object with numerical props
 // Note that the object can contain other
