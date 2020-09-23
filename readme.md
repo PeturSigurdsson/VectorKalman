@@ -1,9 +1,8 @@
 # VectorKalman
 
-<p> 
-A multivariable wrapper for [kalmanjs](https://www.npmjs.com/package/kalmanjs) by <br> 
-[@wouterbulten](https://www.npmjs.com/~wouterbulten).
-</p>
+
+A multivariable wrapper for [kalmanjs](https://www.npmjs.com/package/kalmanjs) by [@wouterbulten](https://www.npmjs.com/~wouterbulten).
+
 
 ## Installation
 
